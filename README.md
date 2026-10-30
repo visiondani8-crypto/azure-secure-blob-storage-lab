@@ -102,20 +102,15 @@ The diagram is a conceptual view. Storage management uses Microsoft Entra author
 | Soft-deleted blob restored | Pass |
 | Restored file downloaded and contents checked | Pass |
 
-## Evidence to add
+## Visual evidence
 
-Add redacted screenshots to an `evidence/` folder. Suggested files:
+![Annotated Azure storage lab workflow](evidence/azure-storage-workflow-redacted.jpg)
 
-- `01-storage-overview.png` — StorageV2, UK South, LRS
-- `02-rbac-role.png` — Storage Blob Data Contributor (hide user identifiers)
-- `03-networking.png` — selected network access and one IP rule (hide the IP)
-- `04-private-container.png` — `company-documents` with private access
-- `05-upload-success.png` — successful blob upload
-- `06-soft-delete.png` — deleted blob in retention
-- `07-recovery-success.png` — successful Undelete
-- `08-restored-file.png` — recovered document opened successfully
+[Open the annotated workflow evidence at full resolution](evidence/azure-storage-workflow-redacted.jpg)
 
-Do not upload unredacted account IDs, email addresses, public IP addresses, tokens, connection strings, or customer data.
+The visual is an **annotated, reconstructed summary based on screenshots from the lab**, showing storage configuration, private container creation, blob upload, soft deletion and successful recovery. It is not an unmodified Azure portal capture. Account identifiers and contact details have been redacted for public sharing.
+
+The configuration, access-control assignment, 403 investigation, and recovery steps are documented above. For additional audit-grade proof, original redacted captures can be added as separate files later.
 
 ## Cost control and cleanup
 
