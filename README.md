@@ -1,4 +1,4 @@
-# Azure Blob Storage Security, Access Control & Data Recovery
+# Project 1 - Azure Secure Blob Storage, Access Control & Data Recovery
 
 **Cloud engineering portfolio | Microsoft Azure | Beginner infrastructure and support lab**
 
@@ -129,9 +129,11 @@ When the lab and screenshots are complete, review Azure Cost Management and dele
 - Secure file upload, download, and validation
 - Blob soft-delete recovery and incident documentation
 
-## Next learning project
+## Next completed project
 
-Deploy and administer a small Azure virtual machine, practise secure remote access, OS updates, monitoring and cleanup, and document the resulting support tickets.
+The planned Azure virtual machine lab was **skipped because of Azure quota restrictions**. The next completed portfolio project is **[Project 2 - Azure Static Website Deployment & CI/CD](https://github.com/visiondani8-crypto/azure-website-project-03/blob/main/docs/project-02-deployment.md)**.
+
+The numbered portfolio continues with **[Project 3 - Azure Website Monitoring & Incident Response](https://github.com/visiondani8-crypto/azure-website-project-03/blob/main/docs/project-03-monitoring.md)** and **[Project 4 - Azure IAM & RBAC Least-Privilege Security](https://github.com/visiondani8-crypto/azure-website-project-03/blob/main/docs/project-04-iam-rbac.md)**.
 
 ## References
 
