@@ -1,4 +1,4 @@
-# Azure Secure Blob Storage Lab
+# Azure Blob Storage Security, Access Control & Data Recovery
 
 **Cloud engineering portfolio | Microsoft Azure | Beginner infrastructure and support lab**
 
